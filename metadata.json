@@ -1,0 +1,6 @@
+{
+  "name": "CampusPulse AWS: Smart Campus Infrastructure & Telemetry Hub",
+  "description": "Smart campus infrastructure telemetry hub for library seat mapping, hostel Wi-Fi diagnostics, mess wastage analytics, and AI campus insights built for Techfest IIT Bombay × AWS ShipIt Challenge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
